@@ -1,4 +1,4 @@
-README for Machine Learning Approach Towards Crime Prediction Using Criminal Hotspots 
+README for G06 
 -------------------------------------------------------------------------------------
 
 Our project relies mainly on pandas, sklearn, numpy and matplotlib. 
